@@ -1,0 +1,14 @@
+# Default
+*                   text=auto
+
+# Source
+*.sql               text
+
+# Documentation
+*.md                text diff=markdown
+*.pdf               binary
+*.png               binary
+
+# Configuration
+.gitattributes      text
+.gitignore          text
