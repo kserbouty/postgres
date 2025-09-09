@@ -16,13 +16,16 @@
         <img src="https://img.shields.io/badge/pgadmin4-9-4169E1?style=flat&logo=postgresql"
         alt="pgadmin4-9" /></a>
     <a href="./LICENSE.md">
-        <img src="https://img.shields.io/badge/license-mit-181717?style=flat&logo=github"
+        <img src="https://img.shields.io/badge/license-mit-blue?style=flat&logo=github"
         alt="mit-license" /></a>
+    <a href="https://github.com/kserbouty/postgres">
+        <img src="https://img.shields.io/badge/status-complete-blue?style=flat&logo=github"
+        alt="status-complete" /></a>
 </p>
 
 ## About
 
-Introduction to PostgreSQL ecosystem with their documentation.
+Personal overview of PostgreSQL differences with MySQL, using queries with their ecosystem and recommendations.
 
 ## Documentation
 
