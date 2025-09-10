@@ -17,7 +17,7 @@
         alt="pgadmin4-9" /></a>
     <a href="./LICENSE.md">
         <img src="https://img.shields.io/badge/license-mit-lightblue?style=flat&logo=github"
-        alt="mit-license" /></a>
+        alt="license-mit" /></a>
     <a href="https://github.com/kserbouty/postgres">
         <img src="https://img.shields.io/badge/status-complete-lightblue?style=flat&logo=github"
         alt="status-complete" /></a>
@@ -29,16 +29,15 @@ Personal overview of PostgreSQL differences with MySQL, using queries with their
 
 ## Documentation
 
-- [PostgreSQL 17.4 Documentation](./docs/postgresql-17.4-documentation.pdf)
-- [pgAdmin 4 Documentation](https://www.pgadmin.org/docs/)
+- [PostgreSQL 17.4 Documentation](https://www.postgresql.org/docs/)
 
 ## Roadmap
 
-- [x] 1. Getting Started
-- [x] 2. The SQL Language
-- [x] 3. Advanced Features
-- [x] 4. SQL Syntax
-- [x] 5. Data Definition
+- [x] Chapter 1: Getting Started
+- [x] Chapter 2: The SQL Language
+- [x] Chapter 3: Advanced Features
+- [x] Chapter 4: SQL Syntax
+- [x] Chapter 5: Data Definition
 
 ## License
 
