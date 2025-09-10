@@ -16,10 +16,10 @@
         <img src="https://img.shields.io/badge/pgadmin4-9-4169E1?style=flat&logo=postgresql"
         alt="pgadmin4-9" /></a>
     <a href="./LICENSE.md">
-        <img src="https://img.shields.io/badge/license-mit-blue?style=flat&logo=github"
+        <img src="https://img.shields.io/badge/license-mit-lightblue?style=flat&logo=github"
         alt="mit-license" /></a>
     <a href="https://github.com/kserbouty/postgres">
-        <img src="https://img.shields.io/badge/status-complete-blue?style=flat&logo=github"
+        <img src="https://img.shields.io/badge/status-complete-lightblue?style=flat&logo=github"
         alt="status-complete" /></a>
 </p>
 
@@ -30,7 +30,7 @@ Personal overview of PostgreSQL differences with MySQL, using queries with their
 ## Documentation
 
 - [PostgreSQL 17.4 Documentation](./docs/postgresql-17.4-documentation.pdf)
-- [pgAdmin Documentation](https://www.pgadmin.org/docs/)
+- [pgAdmin 4 Documentation](https://www.pgadmin.org/docs/)
 
 ## Roadmap
 
