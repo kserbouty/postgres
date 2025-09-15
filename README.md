@@ -25,11 +25,11 @@
 
 ## About
 
-Personal overview of PostgreSQL differences with MySQL, using queries with their ecosystem and recommendations.
+Overview of PostgreSQL to manage relational databases, using queries within its ecosystem.
 
 ## Documentation
 
-- [PostgreSQL 17.4 Documentation](https://www.postgresql.org/docs/)
+- [PostgreSQL 17.4 Documentation (PDF)](./docs/postgresql-17.4-documentation.pdf)
 
 ## Roadmap
 
@@ -41,4 +41,4 @@ Personal overview of PostgreSQL differences with MySQL, using queries with their
 
 ## License
 
-This project is released under [the MIT License](./LICENSE.md).
+This project is released under the [MIT License](./LICENSE.md).
