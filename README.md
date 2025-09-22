@@ -27,9 +27,9 @@
 
 Overview of PostgreSQL to manage relational databases, using queries within its ecosystem.
 
-## Documentation
+## Support
 
-- [PostgreSQL 17.4 Documentation (PDF)](./docs/postgresql-17.4-documentation.pdf)
+- [PostgreSQL 17.4 Documentation (PDF Version)](./docs/postgresql-17.4-documentation.pdf)
 
 ## Roadmap
 
