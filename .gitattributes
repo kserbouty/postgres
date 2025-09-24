@@ -1,14 +1,14 @@
 # Default
 *                   text=auto
 
-# Source
+# Scripts
 *.sql               text
+
+# Configuration
+.gitattributes      text
+.gitignore          text
 
 # Documentation
 *.md                text diff=markdown
 *.pdf               binary
 *.png               binary
-
-# Configuration
-.gitattributes      text
-.gitignore          text
